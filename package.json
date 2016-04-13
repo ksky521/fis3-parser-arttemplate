@@ -1,0 +1,24 @@
+{
+  "name": "fis3-parser-arttemplate",
+  "version": "0.0.1",
+  "description": "fis3 arttemplate parser",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ksky521/fis3-parser-arttemplate.git"
+  },
+  "keywords": [
+    "fis3",
+    "arttemplate",
+    "module"
+  ],
+  "author": "ksky521",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksky521/fis3-parser-arttemplate/issues"
+  },
+  "homepage": "https://github.com/ksky521/fis3-parser-arttemplate",
+  "dependencies": {
+    "tmodjs": "^1.0.3"
+  }
+}
